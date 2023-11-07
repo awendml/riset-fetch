@@ -3,3 +3,4 @@ Ini repo riset-fetch
 Haha umbe
 // dari aslan
 haha bela
+ini awen baru

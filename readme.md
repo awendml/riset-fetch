@@ -1,5 +1,5 @@
 Ini repo riset-fetch
-<!-- Dari awen -->
+// Dari awen
 Haha umbe
 // dari aslan
 haha bela
